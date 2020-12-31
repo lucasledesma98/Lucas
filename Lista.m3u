@@ -1,7 +1,10 @@
 EXTM3U
 
 #EXTINF:-1 group-title="Canales", Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="Canales", Trece
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 
 #EXTINF:-1 group-title="Canales", A&E
 http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_1_3_.m3u8
