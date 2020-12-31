@@ -1,7 +1,7 @@
 EXTM3U
 
-#EXTINF:-1 group-title="Canales", Telefe
-http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_368_3_.m3u8
+#EXTINF:-1 group-title="Canales", Telefe 1
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1609432258~exp=1609439458~acl=/i/appmitelefe_1@326430/*~hmac=e2351565820876f91bc2f3b397f5e1f9d833397dab9f4832661bb9405f73b89a
 
 #EXTINF:-1 group-title="Canales", A&E
 http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_1_3_.m3u8
