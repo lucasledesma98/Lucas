@@ -1,7 +1,7 @@
 EXTM3U
 
 #EXTINF:-1 group-title="Canales", Telefe
-http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_368_3_.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 group-title="Canales", A&E
 http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_1_3_.m3u8
