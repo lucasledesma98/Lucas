@@ -1,88 +1,165 @@
-#EXTM3U
+EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f6d1f953d444a44fa121aba645562bbd.png" group-title="Argentina", Canal 12 misiones 
-http://g1.proy-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
+#EXTINF:-1 group-title="Canales", Telefe
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_368_3_.m3u8
 
-#EXTINF:0 tvg-logo="https://telesol.tv/wp-content/uploads/2020/06/LOGO-FINAL-TELESOL-2020.png" group-title="Argentina",  Telesol 
-https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=1227223
+#EXTINF:-1 group-title="Canales", A&E
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_1_3_.m3u8
 
-#EXTINF:0 tvg-logo="https://multivision.tv/wp-content/uploads/2020/06/cropped-LOGO-CANAL-9-MULTIVISION-OK-1.png" group-title="Argentina",  Canal 9 Salta
-https://panel.dattalive.com/8250/8250/chunklist_w1054082834.m3u8
+#EXTINF:-1 group-title="Canales",AMC
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_3_3_.m3u8
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/445f660190f35967d203fdbe99843bdb.png" group-title="Argentina",  Canal 10 Mar del plata 
-https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10/chunks.m3u8?nimblesessionid=15581783
+#EXTINF:-1 group-title="Canales",AXN
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_7_3_.m3u8
 
-#EXTINF:0 tvg-logo="http://elgarage.com/wp-content/uploads/2019/04/Logo-GARAGE-TV-sin-marco.png" group-title="Argentina",  Garage Tv
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
+#EXTINF:-1 group-title="Canales",CINEMAX
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_25_3_.m3u8
 
-#EXTINF:0 tvg-logo="https://d2ojok753s7avn.cloudfront.net/wp-content/uploads/2020/04/25230342/somosjujuy.png" group-title="Argentina",  Canal 7 JUJUY
-https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w248729873_b499152.m3u8
+#EXTINF:-1 group-title="Canales",COMEDY CENTRAL
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_34_3_.m3u8
 
-#EXTINF:0 tvg-logo="https://www.elnueve.com.ar/wp-content/themes/elnueve-ned-theme/img/logo.png" group-title="Argentina",  EL 9
-https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA1ODI2ODMyLCJzZXNzaW9uIjoiMTg2LjU5LjE1My4yMTMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjU5LjE1My4yMTMiXX0sInNpZ25hdHVyZSI6ImIxZjBhY2IzMmVlMDA3MGRkZmEzMjU0ZjkxODY1MGE1OTg1MWRkNjIifQ%3D%3D
+#EXTINF:-1 group-title="Canales",CINECANAL
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_22_3_.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn.diario26.com/media/image/2017/12/29/379065.jpg" group-title="Argentina",  Canal 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1496011451_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="Canales",FX MX
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_84_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",FOX
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/41_.m3u8
+
+#EXTINF:-1 group-title="Canales", FOX MX
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_68_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",FOX LIFE MX
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_72_3.m3u8
+
+#EXTINF:-1 group-title="Canales",Golden Plus
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_86_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",Golden Premier
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_87_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",PARAMOUNT CHANEL
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_120_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",SPACE
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_126_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",SONY
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_125_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",STUDIO UNIVERSAL
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_127_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",TCM
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_131_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", TNT
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_159_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", LIFETIME
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_102_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", TNT SERIES
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_134_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",TRU TV
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_136_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", UNIVERSAL
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_140_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", WARNER
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_144_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", H&H
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_40_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", I-SAT
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_101_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", FILMS & ARTS
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_334_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", FOX ACTION MX
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_61_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", HBO MUNDI
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_104_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", HBO XTREME
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_105_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", HBO POP
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_106_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", FOX FAMILY
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_66_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", FOX MOVIE
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_67_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", FOX SERIES
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_69_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", HBO
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_90_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", HBO 2
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_91_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", HBO FAMILY
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_92_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", HBO PLUS
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_93_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", HBO SIGNATURE
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_94_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", canal luz
+http://g4.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_540p.m3u8
+
+#EXTINF:-1 group-title="Canales",Discovery Chanel
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_39_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", ID
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_100_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", History
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_96_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",Natgeo
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_111_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",H2
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_89_3_.m3u8
+
+#EXTINF:-1 group-title="Canales",Animal Planet
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_4_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", VH1
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_141_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", MTV
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_107_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", TyC Sport
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_285_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", Direct Tv Sport
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_204_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", TNT sport
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_228_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", Fox Sport 
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_75_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", ESPN Arg
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_450_3_.m3u8
+
+#EXTINF:-1 group-title="Canales", Canal 7
+http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_422_3_.m3u8
 
 
-#EXTINF:0 tvg-logo="https://www.diario26.com/images/telemax_logo.png" group-title="Argentina",  Telemax
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w145393119_b1828000_sleng.m3u8
-
-
-#EXTINF:0 tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-06.png" group-title="Argentina",  Telpin
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w950737241_b1344100_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="Argentina",  Canal 9
-https://live.canalnueve.tv/canal.m3u8
-
-#EXTINF:0 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/cabecera-logo.png" group-title="Argentina",  Orbe 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8?nimblesessionid=15584230
-
-#EXTINF:0 tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="Argentina",  Max TV
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w76321104.m3u8
-
-#EXTINF:0 tvg-logo="http://argentinisimatv.com.ar/wp-content/uploads/2017/09/LOGO-1.png", Argentinisima
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1532057651_b1912000_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png", Atv
-https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/chunklist_w562571611.m3u8
-#EXTINF:0 tvg-logo="https://srt-app.tadevel.xyz/hostname/www.cba24n.com.ar/img/logo-horizontal.png?v=875d8033fe8d73f2599070eddeb1fea2", Canal 10 Cordoba
-https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w1982897744_b1500000_slen.m3u8
-
-
-#EXTINF:0 tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/06/LOGO-DIARIO10-2020-OK_544-X-180.png", Canal 10 Río Negro 
-https://panel.dattalive.com:443/8204/8204/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://www.madryntv.com/images/logo.png", Madryn Tv
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w96529581.m3u8
-
-#EXTINF:0 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png", Canal 13 Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-#EXTINF:0 tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="Argentina",  5tv
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w76321104.m3u8
-
-#EXTINF:0 tvg-logo="http://www.cadenasudeste.com/images/logo-cadena.png" group-title="Argentina",  Cadena Sudeste 
-http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://secureservercdn.net/166.62.108.43/i5o.948.myftpupload.com/wp-content/uploads/2020/05/LOGO-PARA-FONDO-COLOR.png" group-title="Argentina", Canal 13 San Luis
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.canal20villamaria.com.ar/Imagenes/fvochico.png" group-title="Argentina", Canal 20 Villa María 
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-
-
-#EXTINF:0 tvg-logo="https://canal3.lapampa.gob.ar/images/Pie/LogoCanal3-Gob.png" group-title="Argentina", Canal 3 La Pampa 
-https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/chunklist_w1651334666_b1480704.m3u8
-
-#EXTINF:0 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="Argentina", Canal 3 Las Heras 
-https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1212278276.m3u8
-
-#EXTINF:0 tvg-logo="https://www.rosario3.com/__export/1559661968129/sites/rosario3/arte/v2/r3-logo.svg
-" group-title="Argentina", Canal 3 Rosario 
-https://g5.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_720p.m3u8
-
-#EXTINF:0 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2019/11/cropped-logo-web.png" group-title="Argentina", Canal 4 Esquel 
-https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/chunklist_w781102518.m3u8
