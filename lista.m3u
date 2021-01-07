@@ -162,3 +162,5 @@ http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_450_3_.m3u8
 #EXTINF:-1 group-title="Canales", Canal 7
 http://aht.arptlsgrp4.club/1YAOKQOPCRIT09X4BMYY/qts/p_422_3_.m3u8
 
+#EXTINF:-1 group-title="Canales", rápida y mortal
+https://balance.movcloud.net/hls/9af7f8f3e53808e5e1f242b7d9a8c12608726db5c56525ebedbacd5613ab7cf2b095e9baf4a97d5626677d85d6eaf640a11dc8a33979249a60755f2862537a6d94e0713af6e82bef83f8190b4d288e68c6473ee81b9b4af03a94c1db5f01c2a32de0b78993e2d05cfc7365e90126a39a/playlist.m3u8?stime=1609992300&sign=f70b8a53e1e31e61e0fd1e6cc70fe750907f308e
